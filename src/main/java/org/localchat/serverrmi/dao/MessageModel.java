@@ -1,2 +1,5 @@
-package org.localchat.serverrmi.dao;public class MessageModel {
+package org.localchat.serverrmi.dao;
+
+public class MessageModel {
+
 }
